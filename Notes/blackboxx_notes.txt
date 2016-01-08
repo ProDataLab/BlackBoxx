@@ -168,6 +168,18 @@ Notes
     * "Policing Web Video With 'Fingerprints'
     
         * http://www.wsj.com/public/article/SB117728975446878555-jESfIrgqamCOrTMCi83E6Xw87qY_20070522.html?mod=tff_main_tff_top
+        
+    * Audio Fingerprinting with Python and Numpy
+        
+        * http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
+        
+    * How Shazam Works
+    
+        * https://laplacian.wordpress.com/2009/01/10/how-shazam-works/
+        
+    * AWS Case Study: Shazam
+    
+        * https://aws.amazon.com/solutions/case-studies/shazam/
 
 * Stats
 
@@ -184,6 +196,14 @@ Notes
 
     * Wavelet Analysis (online for real time detection)
     * Heirarchical Neural Networks (Deep Learning)
+
+    
+* Infrastructure
+
+    * AWS
+    
+        * https://aws.amazon.com/solutions/case-studies/shazam/
+        
 
 
 * Open Source 
@@ -209,6 +229,9 @@ Notes
         * http://open-fp.sourceforge.net/
         
     * Dejavu
+    
+        * https://github.com/worldveil/dejavu
+        * http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/
     
     * MusicG
     
@@ -276,7 +299,9 @@ Notes
     
         * http://slsp.kaist.ac.kr/paperdata/manuscript_double_sunil.pdf
         
-        
+    * An Industrial-Strength Audio Search Algorithm 
+    
+        * https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
         
         
 * Books
