@@ -166,32 +166,87 @@
 * Other potential Algorithms to use 
 
     * Wavelet Analysis (online for real time detection)
+    * Heirarchical Neural Networks (Deep Learning)
 
 
 * Open Source 
 
+    * https://www.google.com/search?q=open+source+acr&oq=open+source+acr&aqs=chrome..69i57j69i65l2.5158j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=open+source+digital+audio+fingerprinting    
+
     * Echoprint : http://echoprint.me
-    
-    * https://www.google.com/search?q=open+source+acr&oq=open+source+acr&aqs=chrome..69i57j69i65l2.5158j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=open+source+digital+audio+fingerprinting
     
     * MusicBrainz
     
     * AcoustID
     
         * Lukas Lalinsky
+        
+    * OpenFP
+        
+        
+    * Dejavu
+    
+    * MusicG
+    
+    
+    
+* Research Papers
 
+    * Waveprint: Efficient wavelet-based audio fingerprinting
+    
+        * http://cvmig201007.pbworks.com/f/Waveprint+-+Efficient+Wavelet-based+Audio+Fingerprinting+-+Summary.pdf
 
+    * Content Fingerprinting Using Wavelets 
+    
+        * http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32685.pdf
 
+    * The Intervalgram: An Audio Feature for Large-scale Melody Recognition
+    
+        * http://www.cs.toronto.edu/~dross/WaltersRossLyon2012.pdf
+        
+    * KNOWN-AUDIO DETECTION USING WAVEPRINT:SPECTROGRAM FINGERPRINTING BY WAVELET HASHING
+    
+        * http://www.esprockets.com/papers/detection_CB.pdf
+        
+* Books
 
+    * Emerging Digital Forensics Applications for Crime Detection, Prevention, and ...
+    
+        * Pages 50 - 63
+    
+        * https://books.google.com/books?id=U8m6YLhoLesC&pg=PA62&lpg=PA62&dq=Waveprint:+Efficient+wavelet-based+audio+fingerprinting&source=bl&ots=EDP8JMHYOH&sig=gj74rq-bjlKzZI5vx9wm-uuUTmg&hl=en&sa=X&ved=0ahUKEwiyzun_nprKAhUGbD4KHR_bAE0Q6AEIYzAJ#v=onepage&q&f=false
+    
+    
+        
+Discussion topics for Ali
+=========================
 
+* Patents.. may be an issue.
+* Linux ??
+* Simple CPU computers may not be fast enough
 
+    * AWS
+    * GPGPU
+    
 
+    
+* Bookmarks
 
-
-
-
-
-
+    http://aresrpg.sourceforge.net/en/index.html
+    https://support.google.com/youtube/answer/2797370?hl=en
+    http://stackoverflow.com/questions/28215536/how-do-i-apply-the-hanning-function-to-my-audio-sample
+    https://www.mufin.com/
+    https://code.google.com/p/musicg/
+    http://stackoverflow.com/questions/tagged/audio-fingerprinting
+    http://open-fp.sourceforge.net/paper.html
+    http://open-fp.sourceforge.net/
+    http://stackoverflow.com/questions/6269167/open-source-audio-pattern-recognition-finger-printing
+    http://labrosa.ee.columbia.edu/matlab/fingerprint/
+    https://www.openhub.net/p/openfp
+    http://stackoverflow.com/users/60950/luk%c3%a1%c5%a1-lalinsk%c3%bd
+    http://dl.acm.org/citation.cfm?id=1399913
+    http://www.mediaentertainmentinfo.com/2013/06/3-concept-series-what-is-digital-fingerprinting.html/
+    file:///home/prodatalab/Downloads/youtubecontentidhandbook-131210131744-phpapp02.pdf
 
 
 
