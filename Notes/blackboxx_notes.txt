@@ -1,5 +1,21 @@
 
+Discussion topics for Ali
+=========================
 
+* Patents.. may be an issue in the future (see shazam).
+
+* Linux ??
+
+* Simple CPU computers may not be fast enough
+
+    * AWS
+    * GPGPU
+
+    
+    
+Notes
+=====
+        
 * Digital Fingerprint Algorithm
 
     * Frame Snippets
@@ -50,6 +66,7 @@
     * Gracenote
     * Digimarc
     * Doreso
+    * Relatable (defunct ??)
     
 * Teminology
 
@@ -173,7 +190,9 @@
 
     * https://www.google.com/search?q=open+source+acr&oq=open+source+acr&aqs=chrome..69i57j69i65l2.5158j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=open+source+digital+audio+fingerprinting    
 
-    * Echoprint : http://echoprint.me
+    * Echoprint
+    
+        * http://echoprint.me
     
     * MusicBrainz
     
@@ -181,12 +200,45 @@
     
         * Lukas Lalinsky
         
+        * How does Chromaprint work?
+        
+            * https://oxygene.sk/2011/01/how-does-chromaprint-work/
+        
     * OpenFP
         
+        * http://open-fp.sourceforge.net/
         
     * Dejavu
     
     * MusicG
+    
+    * FDMF
+    
+        * http://www.w140.com/audio/
+        
+    * MusicURI
+        
+        * https://github.com/dkourtesis/musicuri
+        
+    * Mpeg-7 Audio DB
+    
+        * http://sourceforge.net/projects/mpeg7audiodb
+        
+    * Audio Scout
+    
+        * http://code.google.com/p/audioscout/
+        
+    * pHash
+    
+        * http://www.phash.org/
+        
+    * Computer Vision for Music Identification
+    
+        * http://www.cs.cmu.edu/~yke/musicretrieval/
+        
+    * fplib
+    
+        * https://github.com/lastfm/Fingerprinter
     
     
     
@@ -208,6 +260,25 @@
     
         * http://www.esprockets.com/papers/detection_CB.pdf
         
+    * A Highly Robust Audio Fingerprinting System
+    
+        * http://ismir2002.ismir.net/proceedings/02-FP04-2.pdf
+        
+    * Audio Thumbnailing of Popular Music Using Chroma-Based Representations
+    
+        * http://musicweb.ucsd.edu/~sdubnov/CATbox/Reader/ThumbnailingMM05.pdf
+        
+    * Pairwise Boosted Audio Fingerprint
+    
+        * http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=5312768
+        
+    * Robust Video Fingerprinting Based on Symmetric Pairwise Boosting
+    
+        * http://slsp.kaist.ac.kr/paperdata/manuscript_double_sunil.pdf
+        
+        
+        
+        
 * Books
 
     * Emerging Digital Forensics Applications for Crime Detection, Prevention, and ...
@@ -215,18 +286,6 @@
         * Pages 50 - 63
     
         * https://books.google.com/books?id=U8m6YLhoLesC&pg=PA62&lpg=PA62&dq=Waveprint:+Efficient+wavelet-based+audio+fingerprinting&source=bl&ots=EDP8JMHYOH&sig=gj74rq-bjlKzZI5vx9wm-uuUTmg&hl=en&sa=X&ved=0ahUKEwiyzun_nprKAhUGbD4KHR_bAE0Q6AEIYzAJ#v=onepage&q&f=false
-    
-    
-        
-Discussion topics for Ali
-=========================
-
-* Patents.. may be an issue.
-* Linux ??
-* Simple CPU computers may not be fast enough
-
-    * AWS
-    * GPGPU
     
 
     
@@ -247,6 +306,13 @@ Discussion topics for Ali
     http://dl.acm.org/citation.cfm?id=1399913
     http://www.mediaentertainmentinfo.com/2013/06/3-concept-series-what-is-digital-fingerprinting.html/
     file:///home/prodatalab/Downloads/youtubecontentidhandbook-131210131744-phpapp02.pdf
+    
+        
+
+    
+
+    
+
 
 
 
