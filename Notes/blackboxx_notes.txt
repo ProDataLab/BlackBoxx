@@ -1,0 +1,222 @@
+
+
+* Digital Fingerprint Algorithm
+
+    * Frame Snippets
+    * Motion and Music Changes
+    * Camera Cuts
+    * Brightness Levels
+    * Object Movements
+    * + Media Metadata
+    
+* Cases of Content Modification
+
+    * Compression
+    * Aspect Ratio Changes
+    * Re-sampling
+    * Change in color
+    * Dimensions
+    * Format
+    * Bitrates
+    * Equalization
+    
+* Cases of Content Degradation
+
+    * Distortion due to Conversion
+    * Loss in quality
+    * Blurring
+    * Cropping
+    * Addition of background noise, etc.
+    
+* Companies
+
+    * Audible Magic (Google initial use of DF)
+        * https://www.audiblemagic.com/
+        * Clients
+            * Facebook
+            * NBC Universal
+            * Soundcloud
+            * Vimeo
+            * Dailymotion
+    * iPharro
+    * Mufin
+        * https://www.mufin.com
+    * Shazam
+        * https://en.wikipedia.org/wiki/Shazam_(service)
+        
+    * Viggle ??
+    * ACRCloud
+    * Civolution
+    * Gracenote
+    * Digimarc
+    * Doreso
+    
+* Teminology
+
+    * Copyright management
+    * Digital fingerprint
+    * Audio fingerprint
+    * Acoustic fingerprint
+    * ACR (automatic content regognition)https://www.audiblemagic.com/
+    * Watermarking
+    
+* DMCA
+
+* DF Process
+
+    * Content owners register their content
+    
+        * Fingerprint
+        * Submissions to "Rights" registry
+        * Metadata
+        
+    * Creation of reference digital representations
+    
+    * Comparison of sample to references in DB
+    
+    * Take action
+    
+        * Block
+        * Delete
+        * Authorize
+        
+* Piracy Examples
+
+    * Ripping from CD/DVD
+    * Capturing from TV
+    * Illegal distribution over social media / P2P
+    * Video recording from movie theaters
+    * Content copying / duplicating
+
+* DF use cases
+
+    * Content ID for contextual and targeted advertising
+    * Mechanism for content delivery verification
+    * Audience measurement
+    * Content filtering and broadcast monitoring
+    * Contractual compliance
+    * ACR (automated content regognition)
+        * Enabling enhanced use experience 
+        * ... greater engagement through second screen applications
+    * Content publishing sites to control CI and revenue from advertising
+        * UGC
+        * Content portals
+        * Social Networking
+    * Version control and content duplication
+    * Content Search via DF fragments
+    * Detection to provide users with enhanced experience
+        * Interactive TV and Second screen applications
+            * Recognize content played on a TV and trigger features like votes; lottery; topic; purchase
+            * Companies
+                * Shazam
+                * Youtube
+                * Facebook
+                * Thetake
+                * Wechat
+                * Weibo
+    * Music (digital) search engines
+    * Online music and lyrics databases
+    * Interactive TV
+    * "To recognize and engage the immediate environment"
+    
+* Current Technology
+
+    * "Content ID" (2007)
+        * Youtube
+        * https://support.google.com/youtube/answer/2797370?hl=en
+        * https://support.google.com/youtube/answer/3367684
+        * "Handbook" : http://www.slideshare.net/carlospacheco74/you-tube-content-id-handbook
+        * https://www.eff.org/deeplinks/2009/04/testing-youtubes-aud
+
+* Legal Battles
+
+    * Viacom Vs. Youtube/Google
+    
+* Not foolproof technology
+
+    * Democrat's convention video
+
+* Permissive Uses of content
+
+    * Education
+    * Training
+
+* Notable users of DF technology
+
+    * Youtube
+    * Facebook
+
+* Articles
+
+    * "Policing Web Video With 'Fingerprints'
+    
+        * http://www.wsj.com/public/article/SB117728975446878555-jESfIrgqamCOrTMCi83E6Xw87qY_20070522.html?mod=tff_main_tff_top
+
+* Stats
+
+    * 2.5 Billion devices will be integrated with ACR to provide synchronized live and on-demand video watching
+      experience (according to "Next/Market Insights")
+      
+      
+* Interesting Facts
+
+    * https://en.wikipedia.org/wiki/Automatic_content_recognition#History
+
+
+* Other potential Algorithms to use 
+
+    * Wavelet Analysis (online for real time detection)
+
+
+* Open Source 
+
+    * Echoprint : http://echoprint.me
+    
+    * https://www.google.com/search?q=open+source+acr&oq=open+source+acr&aqs=chrome..69i57j69i65l2.5158j0j7&sourceid=chrome&es_sm=93&ie=UTF-8#q=open+source+digital+audio+fingerprinting
+    
+    * MusicBrainz
+    
+    * AcoustID
+    
+        * Lukas Lalinsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
